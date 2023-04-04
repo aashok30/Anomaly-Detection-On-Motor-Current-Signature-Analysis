@@ -1,6 +1,8 @@
 # Anomaly-Detection-On-Motor-Current-Signature-Analysis
-Anomaly detection, also known as outlier detection, is the identification of rare events, observations, or items that differ significantly from the normal. These problems or unexpected events occur mostly in bank fraud, infrastructure failures, and hacking.
-Anomaly detection on Motor Current Signature Analysis
+![image](https://user-images.githubusercontent.com/101622691/229792553-a4021c56-f905-4793-8f4d-96685fe39dea.png)
+
+Image Source : http://kneppinc.com/wp-content/uploads/2014/06/SERVICES-DETAIL-Motor-Current-Sig-Analysis-700x500.jpg
+
 This project is all about the Motor Current Signature Analysis (MCSA) where you have to detect anomalies and create a machine learning model by the given data set which contains real-time current readings of a 3-phase AC motor (3.2hp) :
 
 Roadmap To The Project
